@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import plotly.express as px         # order does not matter here! (1 - 4)
+import plotly.express as px         # order does not matter here! (1-4)
 
 # loading the data
 @st.cache_data
